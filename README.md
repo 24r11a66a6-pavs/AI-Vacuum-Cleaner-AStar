@@ -331,3 +331,7 @@ Status: OK (100% Pass)
 
 ### Q10: How can this system be extended to a real hardware robot?
 **Answer:** By equipping a physical robotic chassis with an ESP32 or Raspberry Pi running ROS (Robot Operating System), using LiDAR/ultrasonic sensors for SLAM (Simultaneous Localization and Mapping) to construct the grid occupancy map, and passing the A\* waypoint coordinates to a PID motor controller for wheel actuation.
+=======
+# AI-Vacuum-Cleaner-AStar
+AI-based robot vacuum cleaner path planner using A* algorithm in Python
+
